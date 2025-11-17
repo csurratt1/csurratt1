@@ -96,7 +96,6 @@ Curated list of hands-on programming tutorials across multiple languages. Contri
 - ⚖️ **Mock Trial Competitor** – Developing legal argumentation skills for future tech law career
 - 🚁 **NASA-MN Space Grant Participant** – Designing and programming quadcopters (Nov 2025–Mar 2026)
 - 🏈 **Jumbotron Operator & Graphics Designer** – Real-time event production for Concordia Athletics
-- 📈 **Promoted to Shift Lead** – Leading 5–8 team members at Jersey Mike's after 7 months
 
 ---
 
