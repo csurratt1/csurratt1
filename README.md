@@ -70,10 +70,6 @@ Open-source Android app modified and presented in Agile Dev style. Forked from F
 **Tech:** `Kotlin` `Android Studio` `Agile Methodologies`  
 [View Repository →](https://github.com/csurratt1/GitApp)
 
-### 📚 **Project-Based Learning Tutorials (Forked)**
-Curated list of hands-on programming tutorials across multiple languages. Contributed to organization and documentation.  
-[View Repository →](https://github.com/csurratt1/project-based-learning-Tutorials-)
-
 ---
 
 ## 📊 GitHub Stats
